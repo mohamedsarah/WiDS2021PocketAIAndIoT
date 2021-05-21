@@ -1,1 +1,1 @@
-# PocketAIandIoT_WiDS2021
+# WiDS2021PocketAIAndIoT
